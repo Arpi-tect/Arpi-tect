@@ -1,31 +1,43 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--   BANNER — Blue gradient wave, exact Azhaan style      -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   HEADER BANNER — Blue wave, big white bold name + role       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,20:1e3a6e,50:2563b0,75:3b82f6,100:60a5fa&height=260&section=header&text=ARPITA&fontSize=88&fontColor=ffffff&fontAlignY=40&fontAlign=50&fontStyle=bold&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AWS%20%26%20Backend%20Specialist&descSize=20&descAlignY=62&descAlign=50&descColor=e2e8f0&animation=fadeIn" width="100%"/>
-
-<!-- Typing animation — sudo style -->
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=2500&color=93C5FD&center=true&vCenter=true&width=580&lines=%7E%2F+sudo+apt+install+awesome-developer;%F0%9F%9A%80+Building+Scalable+Cloud+Systems;%E2%9A%A1+Full+Stack+%7C+AWS+%7C+DevOps+%7C+Backend;%F0%9F%94%A5+Turning+Code+into+Live+Products" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,30:1a3a7c,60:2563b0,85:3b82f6,100:60a5fa&height=280&section=header&text=ARPITA&fontSize=95&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&fontStyle=bold&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AWS%20%26%20Backend%20Specialist&descSize=21&descAlignY=62&descAlign=50&descColor=E2E8F0&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Stats badges -->
-<img src="https://komarev.com/ghpvc/?username=Arpi-tect&style=flat-square&color=1e3a6e&labelColor=3b82f6&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Arpi-tect?label=FOLLOWERS&style=flat-square&color=1e3a6e&labelColor=3b82f6" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/Arpi-tect?label=STARS&style=flat-square&color=1e3a6e&labelColor=f59e0b" />
+<!-- Animated typing lines -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=93C5FD&center=true&vCenter=true&width=620&lines=%7E%2F+sudo+apt+install+awesome-developer;%F0%9F%9A%80+Building+Scalable+Cloud+Systems;%E2%9A%A1+Full+Stack+%7C+AWS+%7C+DevOps+%7C+Backend;%F0%9F%94%A5+Turning+Code+into+Live+Products" alt="Typing SVG"/>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitec23)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpiiiee01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Arpi-tect)
+<!-- Stats pills -->
+<img src="https://komarev.com/ghpvc/?username=Arpi-tect&style=flat-square&color=0d1b3e&labelColor=3b82f6&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Arpi-tect?label=FOLLOWERS&style=flat-square&color=0d1b3e&labelColor=3b82f6"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Arpi-tect?label=STARS&style=flat-square&color=0d1b3e&labelColor=f59e0b"/>
 
+<br/><br/>
+
+<!-- Social buttons — matching reference style -->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitec23)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpiiiee01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Arpi-tect)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   ANIMATED CODER GIF — dark pixel art banner                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
 </div>
 
 ---
@@ -33,15 +45,12 @@
 ## 🔗 About Me
 
 <div align="center">
-
-<!-- Animated GIF-style skill icons (skillicons renders as animated SVGs on hover) -->
-<img src="https://skillicons.dev/icons?i=react,java,python,aws,docker,nodejs,mongodb,linux&perline=8&theme=dark" alt="tech icons" />
-
+<img src="https://skillicons.dev/icons?i=react,java,python,aws,docker,nodejs,mongodb,linux&perline=8&theme=dark" alt="tech icons"/>
 </div>
 
 <br/>
 
-<img align="right" alt="Coding GIF" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 ⚡ **Full Stack Developer** from **India** 🇮🇳 building scalable applications with **React, Java, Python, AWS** and modern cloud technologies.
 
@@ -65,9 +74,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--   PIXEL ART / ANIMATED DEV GIF BANNER — dark section   -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   DARK ANIMATED WAVE — separates About from Expertise         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -75,9 +84,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--   MY EXPERTISE — 4-card section like Image 1           -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   MY EXPERTISE — 4 GIF-icon cards like reference Image        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -87,32 +96,28 @@
 
 <table>
 <tr>
-<td align="center" width="220">
+<td align="center" width="210">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80"/>
 <br/><br/>
-<b>Full Stack Development</b>
-<br/>
+<b>Full Stack Development</b><br/>
 <sub>MERN Stack Applications</sub>
 </td>
-<td align="center" width="220">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" height="80"/>
-<br/><br/>
-<b>Cloud Architecture</b>
-<br/>
-<sub>AWS &amp; Docker</sub>
-</td>
-<td align="center" width="220">
+<td align="center" width="210">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" height="80"/>
 <br/><br/>
-<b>Backend Engineering</b>
-<br/>
+<b>Cloud Architecture</b><br/>
+<sub>AWS &amp; Docker</sub>
+</td>
+<td align="center" width="210">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" height="80"/>
+<br/><br/>
+<b>Backend Engineering</b><br/>
 <sub>REST APIs &amp; Microservices</sub>
 </td>
-<td align="center" width="220">
+<td align="center" width="210">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80"/>
 <br/><br/>
-<b>DevOps &amp; CI/CD</b>
-<br/>
+<b>DevOps &amp; CI/CD</b><br/>
 <sub>Pipelines &amp; Automation</sub>
 </td>
 </tr>
@@ -120,12 +125,8 @@
 
 <br/>
 
-</div>
-
----
-
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2200&color=60A5FA&center=true&vCenter=true&width=560&lines=%F0%9F%94%A5+Technical+Skills+Loading...;%E2%9A%99%EF%B8%8F+Compiling+awesome+tech+stack...;%F0%9F%A7%A0+Initialising+developer+mode..." alt="Loading"/>
+
 </div>
 
 ---
@@ -137,9 +138,7 @@
 <summary><b>▼ &nbsp; Programming Languages</b></summary>
 <br>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,cs,rust,r,powershell,solidity&perline=10&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,cs,rust,r,powershell,solidity&perline=10&theme=dark"/>
 </div>
 </details>
 
@@ -148,9 +147,7 @@
 <summary><b>▼ &nbsp; Frontend Development</b></summary>
 <br>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,html,css,tailwind,bootstrap,vite,webpack,flutter&perline=11&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,html,css,tailwind,bootstrap,vite,webpack,flutter&perline=11&theme=dark"/>
 </div>
 </details>
 
@@ -159,9 +156,7 @@
 <summary><b>▼ &nbsp; Backend & APIs</b></summary>
 <br>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask,nginx,kafka,graphql,maven,npm&perline=10&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask,nginx,kafka,graphql,maven,npm&perline=10&theme=dark"/>
 </div>
 </details>
 
@@ -170,9 +165,7 @@
 <summary><b>▼ &nbsp; Cloud & DevOps</b></summary>
 <br>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,githubactions,jenkins,terraform,cloudflare,netlify&perline=11&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,githubactions,jenkins,terraform,cloudflare,netlify&perline=11&theme=dark"/>
 </div>
 </details>
 
@@ -181,53 +174,60 @@
 <summary><b>▼ &nbsp; Databases</b></summary>
 <br>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,dynamodb,sqlite,firebase&perline=8&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,dynamodb,sqlite,firebase&perline=8&theme=dark"/>
 </div>
 </details>
 
 <!-- ▼ TESTING -->
-<details>
+<details open>
 <summary><b>▼ &nbsp; Testing</b></summary>
 <br>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=jest,cypress,selenium,vitest&perline=6&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=jest,cypress,selenium,vitest&perline=6&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 </div>
 </details>
 
 <!-- ▼ DATA & ML -->
-<details>
+<details open>
 <summary><b>▼ &nbsp; Data & Machine Learning</b></summary>
 <br>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=6&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=6&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 </details>
 
 <!-- ▼ DESIGN TOOLS -->
-<details>
+<details open>
 <summary><b>▼ &nbsp; Design Tools</b></summary>
 <br>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,lr&perline=8&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,lr&perline=8&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366"/>
+<img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
 </div>
 </details>
 
 <!-- ▼ DEV TOOLS -->
-<details>
+<details open>
 <summary><b>▼ &nbsp; Dev Tools</b></summary>
 <br>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,gitlab,bash&perline=8&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,gitlab,bash&perline=8&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
 </div>
 </details>
 
@@ -263,6 +263,15 @@
 - Designed and optimised SQL and MongoDB schemas; code reviews across a team of 4
 
 </details>
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **AWS Certified Cloud Practitioner**
+- ☕ **Oracle Certified Foundations Associate — Java**
+- 🤝 Active member of **IEEE, NSS, UX Club & iCreate** at VIT Bhopal
+- 💼 Hands-on experience in Agile teams with real-world deployment workflows
 
 ---
 
@@ -351,19 +360,26 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--   FOOTER — wave closes with blue gradient, neon text   -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   FOOTER — blue wave close + connect section                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,25:3b82f6,55:2563b0,80:1e3a6e,100:1a1f35&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br/>
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitec23)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpiiiee01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Arpi-tect)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=3000&color=93C5FD&center=true&vCenter=true&width=580&lines=%22Turning+ideas+into+scalable+software+%E2%80%94+one+commit+at+a+time.%22+%E2%9C%A8" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=3000&color=93C5FD&center=true&vCenter=true&width=600&lines=%22Turning+ideas+into+scalable+software+%E2%80%94+one+commit+at+a+time.%22+%E2%9C%A8" alt="Quote"/>
 
 <br/>
 
@@ -373,8 +389,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitec23)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpiiiee01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,30:3b82f6,60:2563b0,85:1a3a7c,100:0d1b3e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
