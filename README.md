@@ -1,34 +1,10 @@
 <div align="center">
 
-<!-- ARPITA — pixel art GIF name (no text in banner so no double) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,40:1e40af,70:3b82f6,100:60a5fa&height=180&section=header&animation=fadeIn)
+<!-- BANNER: twinkling animation makes ARPITA shimmer — like a GIF effect -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,40:1e40af,70:3b82f6,100:60a5fa&height=300&section=header&text=ARPITA&fontSize=95&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Backend%20Specialist&descSize=19&descAlignY=63&descAlign=50&descColor=e2e8f0&animation=twinkling)
 
-<!-- ARPITA pixel art style via capsule-render venom/glitch type -->
-![arpita-name](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e1b4b&height=120&text=✦%20ARPITA%20✦&fontSize=72&fontColor=a78bfa&fontAlign=50&fontAlignY=55&animation=blinking&desc=&descSize=0)
-
-<!-- Girly aesthetic sparkle divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500"/>
-
-<br/>
-
-<!-- Single ticker — FULL text always visible, wide 1000px, never clipped -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1500&color=C084FC&center=true&vCenter=true&repeat=true&width=1000&duration=3500&lines=✨+Full+Stack+Developer+%7C+Cloud+Engineer+%7C+Backend+Specialist+✨" alt="Role Ticker"/>
-
-<br/>
-
-<!-- Cycling second line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=2000&color=60A5FA&center=true&vCenter=true&multiline=false&width=1000&lines=%7E%2F+sudo+apt+install+awesome-developer;Building+Scalable+Cloud+Systems+on+AWS+%F0%9F%9A%80;DevOps+%7C+CI%2FCD+%7C+REST+APIs+%7C+Microservices" alt="Typing SVG"/>
-
-<br/>
-
-<!-- 🌸 Girly aesthetic coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="220" alt="girly aesthetic"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9e015537-85a6-4a86-9b7e-cc5b2ca3c984.gif" width="220" alt="girly aesthetic 2"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="220" alt="girly aesthetic 3"/>
-
-<br/>
+<!-- Animated typing — wide 900px so text NEVER clips, full spellings always visible -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2500&color=60A5FA&center=true&vCenter=true&multiline=false&width=900&lines=Full+Stack+Developer+%7C+Cloud+Engineer+%7C+Backend+Specialist;%7E%2F+sudo+apt+install+awesome-developer;Building+Scalable+Cloud+Systems+on+AWS;Full+Stack+%7C+DevOps+%7C+CI%2FCD+%7C+REST+APIs" alt="Typing SVG"/>
 
 <br/>
 
@@ -132,37 +108,6 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2200&color=60A5FA&center=true&vCenter=true&width=560&lines=%F0%9F%94%A5+Technical+Skills+Loading...;%E2%9A%99%EF%B8%8F+Compiling+awesome+tech+stack...;%F0%9F%A7%A0+Initialising+developer+mode..." alt="Loading"/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--     🌸✨  PIXEL ART + GIRLY AESTHETIC SECTION  ✨🌸    -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- Full-width pixel art coding girl GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="Pixel coding girl"/>
-
-<br/><br/>
-
-<!-- Girly aesthetic: cat + flowers + stars side by side -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9960-de6771f79e5a.png" width="50px"/>
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9960-de6771f79e5a.png" width="50px"/>
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>
-
-<br/><br/>
-
-<!-- Pixel terminal typing — 8-bit game font style -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=2000&color=C084FC&center=true&vCenter=true&width=800&lines=%E2%9C%A8+LOADING+TECH+STACK...+%E2%9C%A8;%F0%9F�%B8+COMPILING+AWESOME+CODE...+%F0%9F%8C%B8;%F0%9F%9A%80+DEPLOYING+TO+PRODUCTION...+%F0%9F%9A%80;%F0%9F'%9C%B8+ARPITA.EXE+IS+RUNNING+%F0%9F%92%AB" alt="Pixel typing"/>
-
 </div>
 
 ---
