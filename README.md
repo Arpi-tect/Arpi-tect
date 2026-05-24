@@ -1,8 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,40:1e40af,70:3b82f6,100:60a5fa&height=280&section=header&text=ARPITA&fontSize=90&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AWS%20%26%20Backend%20Specialist&descSize=20&descAlignY=62&descAlign=50&descColor=e2e8f0&animation=fadeIn)
+<!-- BANNER — & replaced with %20and%20 to avoid XML parse error -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,40:1e40af,70:3b82f6,100:60a5fa&height=280&section=header&text=ARPITA&fontSize=90&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Backend%20Specialist&descSize=20&descAlignY=62&descAlign=50&descColor=e2e8f0&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=93C5FD&center=true&vCenter=true&width=620&lines=%7E%2F+sudo+apt+install+awesome-developer;%F0%9F%9A%80+Building+Scalable+Cloud+Systems;%E2%9A%A1+Full+Stack+%7C+AWS+%7C+DevOps+%7C+Backend;%F0%9F%94%A5+Turning+Code+into+Live+Products" alt="Typing SVG" />
+<!-- Role subtitle in large animated text — always visible -->
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=28&pause=99999&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Cloud+Engineer+%7C+Backend+Specialist" alt="Role"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=2000&color=93C5FD&center=true&vCenter=true&width=620&lines=%7E%2F+sudo+apt+install+awesome-developer;%F0%9F%9A%80+Building+Scalable+Cloud+Systems;%E2%9A%A1+Full+Stack+%7C+AWS+%7C+DevOps+%7C+Backend;%F0%9F%94%A5+Turning+Code+into+Live+Products" alt="Typing SVG" />
 
 <br/>
 
@@ -85,17 +89,17 @@
 <td align="center" width="210">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
 <br/><br/><b>Cloud Architecture</b><br/>
-<sub>AWS &amp; Docker</sub>
+<sub>AWS + Docker</sub>
 </td>
 <td align="center" width="210">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
 <br/><br/><b>Backend Engineering</b><br/>
-<sub>REST APIs &amp; Microservices</sub>
+<sub>REST APIs + Microservices</sub>
 </td>
 <td align="center" width="210">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-<br/><br/><b>DevOps &amp; CI/CD</b><br/>
-<sub>Pipelines &amp; Automation</sub>
+<br/><br/><b>DevOps + CI/CD</b><br/>
+<sub>Pipelines + Automation</sub>
 </td>
 </tr>
 </table>
