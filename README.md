@@ -1,45 +1,30 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════╗ -->
-<!--         DARK NEON BANNER — Deep dark with electric  -->
-<!-- ╚══════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--   BANNER — Blue gradient wave, exact Azhaan style      -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f1a,20:0a0e1f,45:0d1b3e,70:0f3460,100:16213e&height=260&section=header&text=ARPITA&fontSize=90&fontColor=00d4ff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AWS%20%26%20Backend%20Specialist&descSize=19&descAlignY=60&descAlign=50&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,20:1e3a6e,50:2563b0,75:3b82f6,100:60a5fa&height=260&section=header&text=ARPITA&fontSize=88&fontColor=ffffff&fontAlignY=40&fontAlign=50&fontStyle=bold&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AWS%20%26%20Backend%20Specialist&descSize=20&descAlignY=62&descAlign=50&descColor=e2e8f0&animation=fadeIn" width="100%"/>
 
-<!-- Animated typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=%7E%2F+sudo+apt+install+awesome-developer;%F0%9F%9A%80+Building+Scalable+Cloud+Systems;%E2%9A%A1+Full+Stack+%7C+AWS+%7C+DevOps+%7C+Backend;%F0%9F%94%A5+Turning+Code+into+Live+Products" alt="Typing SVG"/>
+<!-- Typing animation — sudo style -->
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=2500&color=93C5FD&center=true&vCenter=true&width=580&lines=%7E%2F+sudo+apt+install+awesome-developer;%F0%9F%9A%80+Building+Scalable+Cloud+Systems;%E2%9A%A1+Full+Stack+%7C+AWS+%7C+DevOps+%7C+Backend;%F0%9F%94%A5+Turning+Code+into+Live+Products" alt="Typing SVG"/>
 
 <br/>
 
-<!-- STATS BADGES — neon dark pill style -->
-<img src="https://komarev.com/ghpvc/?username=Arpi-tect&style=flat-square&color=0d0f1a&labelColor=00d4ff&label=PROFILE+VIEWS" />
+<!-- Stats badges -->
+<img src="https://komarev.com/ghpvc/?username=Arpi-tect&style=flat-square&color=1e3a6e&labelColor=3b82f6&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Arpi-tect?label=FOLLOWERS&style=flat-square&color=0d0f1a&labelColor=00d4ff" />
+<img src="https://img.shields.io/github/followers/Arpi-tect?label=FOLLOWERS&style=flat-square&color=1e3a6e&labelColor=3b82f6" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/Arpi-tect?label=STARS&style=flat-square&color=0d0f1a&labelColor=ff6b35" />
+<img src="https://img.shields.io/github/stars/Arpi-tect?label=STARS&style=flat-square&color=1e3a6e&labelColor=f59e0b" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitec23)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpiiiee01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════╗ -->
-<!--         ANIMATED DEVELOPER GIF — BETWEEN SECTIONS  -->
-<!-- ╚══════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-
-<br/>
-
-<!-- Neon typing line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1800&color=9D00FF&center=true&vCenter=true&width=500&lines=%F0%9F%92%A1+Writing+code+that+ships+to+production;%F0%9F%8C%90+Cloud-native+%7C+Containerised+%7C+Automated;%F0%9F%94%92+Secure+APIs+%7C+Scalable+Architecture" alt="Typing2"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Arpi-tect)
 
 </div>
 
@@ -49,8 +34,8 @@
 
 <div align="center">
 
-<!-- Animated skill icons -->
-<img src="https://skillicons.dev/icons?i=react,java,python,aws,docker,nodejs,mongodb,linux&perline=8" alt="tech icons" />
+<!-- Animated GIF-style skill icons (skillicons renders as animated SVGs on hover) -->
+<img src="https://skillicons.dev/icons?i=react,java,python,aws,docker,nodejs,mongodb,linux&perline=8&theme=dark" alt="tech icons" />
 
 </div>
 
@@ -80,18 +65,67 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════╗ -->
-<!--        DARK DEV GIF BANNER — "In the zone" style   -->
-<!-- ╚══════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--   PIXEL ART / ANIMATED DEV GIF BANNER — dark section   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--   MY EXPERTISE — 4-card section like Image 1           -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+## 🧠 My Expertise
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2200&color=FF6B35&center=true&vCenter=true&width=560&lines=%F0%9F%94%A5+Technical+Skills+Loading...;%E2%9A%99%EF%B8%8F+Compiling+awesome+tech+stack...;%F0%9F%A7%A0+Initialising+developer+mode..." alt="Loading"/>
+<table>
+<tr>
+<td align="center" width="220">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80"/>
+<br/><br/>
+<b>Full Stack Development</b>
+<br/>
+<sub>MERN Stack Applications</sub>
+</td>
+<td align="center" width="220">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" height="80"/>
+<br/><br/>
+<b>Cloud Architecture</b>
+<br/>
+<sub>AWS &amp; Docker</sub>
+</td>
+<td align="center" width="220">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" height="80"/>
+<br/><br/>
+<b>Backend Engineering</b>
+<br/>
+<sub>REST APIs &amp; Microservices</sub>
+</td>
+<td align="center" width="220">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80"/>
+<br/><br/>
+<b>DevOps &amp; CI/CD</b>
+<br/>
+<sub>Pipelines &amp; Automation</sub>
+</td>
+</tr>
+</table>
 
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2200&color=60A5FA&center=true&vCenter=true&width=560&lines=%F0%9F%94%A5+Technical+Skills+Loading...;%E2%9A%99%EF%B8%8F+Compiling+awesome+tech+stack...;%F0%9F%A7%A0+Initialising+developer+mode..." alt="Loading"/>
 </div>
 
 ---
@@ -104,9 +138,7 @@
 <br>
 <div align="center">
 
-| | | | | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java | <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python | <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript | <img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>TypeScript | <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>C++ | <img src="https://skillicons.dev/icons?i=cs" width="48"/><br/>C# | <img src="https://skillicons.dev/icons?i=rust" width="48"/><br/>Rust | <img src="https://skillicons.dev/icons?i=r" width="48"/><br/>R | <img src="https://skillicons.dev/icons?i=powershell" width="48"/><br/>PowerShell | <img src="https://skillicons.dev/icons?i=solidity" width="48"/><br/>Solidity |
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,cs,rust,r,powershell,solidity&perline=10&theme=dark" />
 
 </div>
 </details>
@@ -117,9 +149,7 @@
 <br>
 <div align="center">
 
-| | | | | | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React | <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js | <img src="https://skillicons.dev/icons?i=angular" width="48"/><br/>Angular | <img src="https://skillicons.dev/icons?i=redux" width="48"/><br/>Redux | <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3 | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind | <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap | <img src="https://skillicons.dev/icons?i=vite" width="48"/><br/>Vite | <img src="https://skillicons.dev/icons?i=webpack" width="48"/><br/>Webpack | <img src="https://skillicons.dev/icons?i=flutter" width="48"/><br/>Flutter |
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,html,css,tailwind,bootstrap,vite,webpack,flutter&perline=11&theme=dark" />
 
 </div>
 </details>
@@ -130,9 +160,7 @@
 <br>
 <div align="center">
 
-| | | | | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express | <img src="https://skillicons.dev/icons?i=spring" width="48"/><br/>Spring | <img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>FastAPI | <img src="https://skillicons.dev/icons?i=flask" width="48"/><br/>Flask | <img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/>Nginx | <img src="https://skillicons.dev/icons?i=kafka" width="48"/><br/>Kafka | <img src="https://skillicons.dev/icons?i=graphql" width="48"/><br/>GraphQL | <img src="https://skillicons.dev/icons?i=maven" width="48"/><br/>Maven | <img src="https://skillicons.dev/icons?i=npm" width="48"/><br/>NPM |
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask,nginx,kafka,graphql,maven,npm&perline=10&theme=dark" />
 
 </div>
 </details>
@@ -143,9 +171,7 @@
 <br>
 <div align="center">
 
-| | | | | | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>AWS | <img src="https://skillicons.dev/icons?i=azure" width="48"/><br/>Azure | <img src="https://skillicons.dev/icons?i=gcp" width="48"/><br/>GCP | <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker | <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>Kubernetes | <img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux | <img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>GH Actions | <img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br/>Jenkins | <img src="https://skillicons.dev/icons?i=terraform" width="48"/><br/>Terraform | <img src="https://skillicons.dev/icons?i=cloudflare" width="48"/><br/>Cloudflare | <img src="https://skillicons.dev/icons?i=netlify" width="48"/><br/>Netlify |
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,githubactions,jenkins,terraform,cloudflare,netlify&perline=11&theme=dark" />
 
 </div>
 </details>
@@ -156,9 +182,7 @@
 <br>
 <div align="center">
 
-| | | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB | <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL | <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>PostgreSQL | <img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis | <img src="https://skillicons.dev/icons?i=dynamodb" width="48"/><br/>DynamoDB | <img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/>SQLite | <img src="https://skillicons.dev/icons?i=cassandra" width="48"/><br/>Cassandra | <img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>Firebase |
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,dynamodb,sqlite,firebase&perline=8&theme=dark" />
 
 </div>
 </details>
@@ -169,9 +193,7 @@
 <br>
 <div align="center">
 
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=jest" width="48"/><br/>Jest | <img src="https://skillicons.dev/icons?i=cypress" width="48"/><br/>Cypress | <img src="https://skillicons.dev/icons?i=selenium" width="48"/><br/>Selenium | <img src="https://skillicons.dev/icons?i=vitest" width="48"/><br/>Vitest | <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" height="48"/><br/>Mocha |
+<img src="https://skillicons.dev/icons?i=jest,cypress,selenium,vitest&perline=6&theme=dark" />
 
 </div>
 </details>
@@ -182,9 +204,7 @@
 <br>
 <div align="center">
 
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>TensorFlow | <img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>PyTorch | <img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br/>Scikit-Learn | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48"/><br/>Pandas | <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48"/><br/>NumPy |
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=6&theme=dark" />
 
 </div>
 </details>
@@ -195,9 +215,7 @@
 <br>
 <div align="center">
 
-| | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma | <img src="https://skillicons.dev/icons?i=xd" width="48"/><br/>Adobe XD | <img src="https://skillicons.dev/icons?i=ps" width="48"/><br/>Photoshop | <img src="https://skillicons.dev/icons?i=ai" width="48"/><br/>Illustrator | <img src="https://skillicons.dev/icons?i=pr" width="48"/><br/>Premiere | <img src="https://skillicons.dev/icons?i=lr" width="48"/><br/>Lightroom | <img src="https://skillicons.dev/icons?i=canva" width="48"/><br/>Canva |
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,lr&perline=8&theme=dark" />
 
 </div>
 </details>
@@ -208,27 +226,17 @@
 <br>
 <div align="center">
 
-| | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git | <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub | <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code | <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman | <img src="https://skillicons.dev/icons?i=jira" width="48"/><br/>Jira | <img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br/>GitLab | <img src="https://skillicons.dev/icons?i=bash" width="48"/><br/>Bash |
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,gitlab,bash&perline=8&theme=dark" />
 
 </div>
 </details>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════╗ -->
-<!--   ANIMATED CODER GIF — dark pixel art / neon vibe  -->
-<!-- ╚══════════════════════════════════════════════════╝ -->
-
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=00FF9D&center=true&vCenter=true&width=540&lines=%F0%9F%93%8A+Fetching+GitHub+Stats...;%F0%9F%92%AA+Contributions+incoming...;%E2%AD%90+Collecting+stars+and+streaks..." alt="Stats loading"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=34D399&center=true&vCenter=true&width=540&lines=%F0%9F%93%8A+Fetching+GitHub+Stats...;%F0%9F%92%AA+Contributions+incoming...;%E2%AD%90+Collecting+stars+and+streaks..." alt="Stats loading"/>
 </div>
 
 ---
@@ -265,7 +273,7 @@
 <td width="50%">
 
 ### 📋 Task Manager Web App
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="28"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="28"/>
 
 - Full-stack CRUD for 100+ tasks per user
 - JWT-secured authentication
@@ -278,7 +286,7 @@
 <td width="50%">
 
 ### 📸 Stories Web App — 24hr Feature
-<img src="https://skillicons.dev/icons?i=react,js,html,css" height="28"/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" height="28"/>
 
 - Upload & view temporary image stories
 - 24-hour auto-deletion via timestamps + LocalStorage
@@ -292,7 +300,7 @@
 <td width="50%">
 
 ### ☁️ Cloud Deployment & Automation
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git" height="28"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" height="28"/>
 
 - 3 containerised microservices on AWS (EC2, S3, IAM)
 - Automated environment setup — cut config time ~50%
@@ -308,7 +316,7 @@
 
 > Always building something new 🚀
 
-[![All Repos](https://img.shields.io/badge/See_All_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect?tab=repositories)
+[![All Repos](https://img.shields.io/badge/See_All_Repos-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect?tab=repositories)
 
 </td>
 </tr>
@@ -320,12 +328,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arpi-tect&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0f1a&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=10" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpi-tect&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d0f1a&title_color=00d4ff&text_color=c9d1d9&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arpi-tect&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=c9d1d9&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpi-tect&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&border_radius=10" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Arpi-tect&theme=tokyonight&hide_border=true&background=0d0f1a&ring=00d4ff&fire=FF6B35&currStreakLabel=00d4ff&border_radius=10"/>
+<img src="https://streak-stats.demolab.com/?user=Arpi-tect&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=f59e0b&currStreakLabel=3b82f6&border_radius=10"/>
 
 <br/>
 
@@ -343,23 +351,25 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════╗ -->
-<!--     FOOTER GIF + WAVE — electric neon dark close   -->
-<!-- ╚══════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--   FOOTER — wave closes with blue gradient, neon text   -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,25:0f3460,55:0d1b3e,80:0a0e1f,100:0d0f1a&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,25:3b82f6,55:2563b0,80:1e3a6e,100:1a1f35&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=3000&color=9D00FF&center=true&vCenter=true&width=540&lines=%22Turning+ideas+into+scalable+software+%E2%80%94+one+commit+at+a+time.%22+%E2%9C%A8" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=3000&color=93C5FD&center=true&vCenter=true&width=580&lines=%22Turning+ideas+into+scalable+software+%E2%80%94+one+commit+at+a+time.%22+%E2%9C%A8" alt="Quote"/>
 
 <br/>
 
-**Always Learning · Always Building 🚀**
+**Open for collaborations · Available for freelance · Always learning 🚀**
+
+<sub>Specializing in: Full Stack Dev · Cloud Architecture · REST APIs · CI/CD Automation</sub>
 
 <br/>
 
