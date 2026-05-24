@@ -1,28 +1,19 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   HEADER BANNER — Blue wave, big white bold name + role       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,40:1e40af,70:3b82f6,100:60a5fa&height=280&section=header&text=ARPITA&fontSize=90&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AWS%20%26%20Backend%20Specialist&descSize=20&descAlignY=62&descAlign=50&descColor=e2e8f0&animation=fadeIn)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,30:1a3a7c,60:2563b0,85:3b82f6,100:60a5fa&height=280&section=header&text=ARPITA&fontSize=95&fontColor=FFFFFF&fontAlignY=38&fontAlign=50&fontStyle=bold&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AWS%20%26%20Backend%20Specialist&descSize=21&descAlignY=62&descAlign=50&descColor=E2E8F0&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=93C5FD&center=true&vCenter=true&width=620&lines=%7E%2F+sudo+apt+install+awesome-developer;%F0%9F%9A%80+Building+Scalable+Cloud+Systems;%E2%9A%A1+Full+Stack+%7C+AWS+%7C+DevOps+%7C+Backend;%F0%9F%94%A5+Turning+Code+into+Live+Products" alt="Typing SVG" />
 
 <br/>
 
-<!-- Animated typing lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=93C5FD&center=true&vCenter=true&width=620&lines=%7E%2F+sudo+apt+install+awesome-developer;%F0%9F%9A%80+Building+Scalable+Cloud+Systems;%E2%9A%A1+Full+Stack+%7C+AWS+%7C+DevOps+%7C+Backend;%F0%9F%94%A5+Turning+Code+into+Live+Products" alt="Typing SVG"/>
+<img src="https://komarev.com/ghpvc/?username=Arpi-tect&style=flat-square&color=0d1b3e&labelColor=3b82f6&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Arpi-tect?label=FOLLOWERS&style=flat-square&color=0d1b3e&labelColor=3b82f6" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Arpi-tect?label=STARS&style=flat-square&color=0d1b3e&labelColor=f59e0b" />
 
 <br/><br/>
 
-<!-- Stats pills -->
-<img src="https://komarev.com/ghpvc/?username=Arpi-tect&style=flat-square&color=0d1b3e&labelColor=3b82f6&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Arpi-tect?label=FOLLOWERS&style=flat-square&color=0d1b3e&labelColor=3b82f6"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/Arpi-tect?label=STARS&style=flat-square&color=0d1b3e&labelColor=f59e0b"/>
-
-<br/><br/>
-
-<!-- Social buttons — matching reference style -->
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitec23)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpiiiee01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
@@ -32,25 +23,25 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   ANIMATED CODER GIF — dark pixel art banner                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
-</div>
-
----
-
 ## 🔗 About Me
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,java,python,aws,docker,nodejs,mongodb,linux&perline=8&theme=dark" alt="tech icons"/>
+
+<!-- Row 1 of animated GIF tech icons — each is its own animated GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" title="React"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" title="Python"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" title="AWS"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" title="Node.js"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60" title="MongoDB"/>
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-ed6d-4d63-9e9d-f99b53e8f6f0.gif" width="60" title="Docker"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" title="Java"/>
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9f9be15c-2b52-4d74-8d86-f56e3b5cf3e0.gif" width="60" title="Linux"/>
+
 </div>
 
 <br/>
 
-<img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ⚡ **Full Stack Developer** from **India** 🇮🇳 building scalable applications with **React, Java, Python, AWS** and modern cloud technologies.
 
@@ -74,160 +65,238 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   DARK ANIMATED WAVE — separates About from Expertise         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   MY EXPERTISE — 4 GIF-icon cards like reference Image        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
 ## 🧠 My Expertise
 
-<br/>
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="210">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80"/>
-<br/><br/>
-<b>Full Stack Development</b><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
+<br/><br/><b>Full Stack Development</b><br/>
 <sub>MERN Stack Applications</sub>
 </td>
 <td align="center" width="210">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" height="80"/>
-<br/><br/>
-<b>Cloud Architecture</b><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<br/><br/><b>Cloud Architecture</b><br/>
 <sub>AWS &amp; Docker</sub>
 </td>
 <td align="center" width="210">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" height="80"/>
-<br/><br/>
-<b>Backend Engineering</b><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+<br/><br/><b>Backend Engineering</b><br/>
 <sub>REST APIs &amp; Microservices</sub>
 </td>
 <td align="center" width="210">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80"/>
-<br/><br/>
-<b>DevOps &amp; CI/CD</b><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<br/><br/><b>DevOps &amp; CI/CD</b><br/>
 <sub>Pipelines &amp; Automation</sub>
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
+---
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2200&color=60A5FA&center=true&vCenter=true&width=560&lines=%F0%9F%94%A5+Technical+Skills+Loading...;%E2%9A%99%EF%B8%8F+Compiling+awesome+tech+stack...;%F0%9F%A7%A0+Initialising+developer+mode..." alt="Loading"/>
-
 </div>
 
 ---
 
 ## 💻 Technical Skills
 
-<!-- ▼ PROGRAMMING LANGUAGES -->
 <details open>
 <summary><b>▼ &nbsp; Programming Languages</b></summary>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,cs,rust,r,powershell,solidity&perline=10&theme=dark"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="55" title="Java"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55" title="Python"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="55" title="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55" title="C++"/>
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="55" title="C#"/>
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" width="55" title="Rust"/>
+<img src="https://skillicons.dev/icons?i=r&theme=dark" width="55" title="R"/>
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" width="55" title="Solidity"/>
+
+</div>
+<br/>
+<div align="center">
+<code>Java</code> &nbsp; <code>Python</code> &nbsp; <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>C++</code> &nbsp; <code>C#</code> &nbsp; <code>Rust</code> &nbsp; <code>R</code> &nbsp; <code>Solidity</code>
 </div>
 </details>
 
-<!-- ▼ FRONTEND -->
 <details open>
 <summary><b>▼ &nbsp; Frontend Development</b></summary>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,html,css,tailwind,bootstrap,vite,webpack,flutter&perline=11&theme=dark"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55" title="React"/>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="55" title="Next.js"/>
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="55" title="Angular"/>
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" width="55" title="Redux"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257438-02e41ec3-779c-4e87-84d5-e2af7d63a43b.gif" width="55" title="HTML5"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257449-ca48f5e9-0a26-4e45-a3ac-e20e671fa94c.gif" width="55" title="CSS3"/>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="55" title="Tailwind"/>
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="55" title="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="55" title="Vite"/>
+<img src="https://skillicons.dev/icons?i=webpack&theme=dark" width="55" title="Webpack"/>
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="55" title="Flutter"/>
+
+</div>
+<br/>
+<div align="center">
+<code>React</code> &nbsp; <code>Next.js</code> &nbsp; <code>Angular</code> &nbsp; <code>Redux</code> &nbsp; <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>Tailwind</code> &nbsp; <code>Bootstrap</code> &nbsp; <code>Vite</code> &nbsp; <code>Webpack</code> &nbsp; <code>Flutter</code>
 </div>
 </details>
 
-<!-- ▼ BACKEND -->
 <details open>
 <summary><b>▼ &nbsp; Backend & APIs</b></summary>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask,nginx,kafka,graphql,maven,npm&perline=10&theme=dark"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="55" title="Express"/>
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="55" title="Spring"/>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="55" title="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="55" title="Flask"/>
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="55" title="Nginx"/>
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="55" title="Kafka"/>
+<img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="55" title="GraphQL"/>
+<img src="https://skillicons.dev/icons?i=maven&theme=dark" width="55" title="Maven"/>
+
+</div>
+<br/>
+<div align="center">
+<code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>Spring</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Flask</code> &nbsp; <code>Nginx</code> &nbsp; <code>Kafka</code> &nbsp; <code>GraphQL</code> &nbsp; <code>Maven</code>
 </div>
 </details>
 
-<!-- ▼ CLOUD & DEVOPS -->
 <details open>
 <summary><b>▼ &nbsp; Cloud & DevOps</b></summary>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,githubactions,jenkins,terraform,cloudflare,netlify&perline=11&theme=dark"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55" title="AWS"/>
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" width="55" title="Azure"/>
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="55" title="GCP"/>
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-ed6d-4d63-9e9d-f99b53e8f6f0.gif" width="55" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="55" title="Kubernetes"/>
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9f9be15c-2b52-4d74-8d86-f56e3b5cf3e0.gif" width="55" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="55" title="GH Actions"/>
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="55" title="Jenkins"/>
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="55" title="Terraform"/>
+<img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="55" title="Cloudflare"/>
+
+</div>
+<br/>
+<div align="center">
+<code>AWS</code> &nbsp; <code>Azure</code> &nbsp; <code>GCP</code> &nbsp; <code>Docker</code> &nbsp; <code>Kubernetes</code> &nbsp; <code>Linux</code> &nbsp; <code>GH Actions</code> &nbsp; <code>Jenkins</code> &nbsp; <code>Terraform</code> &nbsp; <code>Cloudflare</code>
 </div>
 </details>
 
-<!-- ▼ DATABASES -->
 <details open>
 <summary><b>▼ &nbsp; Databases</b></summary>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,dynamodb,sqlite,firebase&perline=8&theme=dark"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="55" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55" title="MySQL"/>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="55" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="55" title="Redis"/>
+<img src="https://skillicons.dev/icons?i=dynamodb&theme=dark" width="55" title="DynamoDB"/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="55" title="SQLite"/>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="55" title="Firebase"/>
+
+</div>
+<br/>
+<div align="center">
+<code>MongoDB</code> &nbsp; <code>MySQL</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Redis</code> &nbsp; <code>DynamoDB</code> &nbsp; <code>SQLite</code> &nbsp; <code>Firebase</code>
 </div>
 </details>
 
-<!-- ▼ TESTING -->
 <details open>
 <summary><b>▼ &nbsp; Testing</b></summary>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=jest,cypress,selenium,vitest&perline=6&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=jest&theme=dark" width="55" title="Jest"/>
+<img src="https://skillicons.dev/icons?i=cypress&theme=dark" width="55" title="Cypress"/>
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="55" title="Selenium"/>
+<img src="https://skillicons.dev/icons?i=vitest&theme=dark" width="55" title="Vitest"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+
+</div>
+<br/>
+<div align="center">
+<code>Jest</code> &nbsp; <code>Cypress</code> &nbsp; <code>Selenium</code> &nbsp; <code>Vitest</code> &nbsp; <code>Mocha</code>
 </div>
 </details>
 
-<!-- ▼ DATA & ML -->
 <details open>
 <summary><b>▼ &nbsp; Data & Machine Learning</b></summary>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=6&theme=dark"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257480-3498f2c6-3aad-4b57-9f9e-5cf9eabd870a.gif" width="55" title="TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="55" title="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="55" title="Scikit-learn"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
 </div>
 </details>
 
-<!-- ▼ DESIGN TOOLS -->
 <details open>
 <summary><b>▼ &nbsp; Design Tools</b></summary>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,lr&perline=8&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="55" title="Figma"/>
+<img src="https://skillicons.dev/icons?i=xd&theme=dark" width="55" title="Adobe XD"/>
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" width="55" title="Photoshop"/>
+<img src="https://skillicons.dev/icons?i=ai&theme=dark" width="55" title="Illustrator"/>
+<img src="https://skillicons.dev/icons?i=pr&theme=dark" width="55" title="Premiere Pro"/>
+<img src="https://skillicons.dev/icons?i=lr&theme=dark" width="55" title="Lightroom"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366"/>
+<img src="https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366"/>
 <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
+
 </div>
 </details>
 
-<!-- ▼ DEV TOOLS -->
 <details open>
 <summary><b>▼ &nbsp; Dev Tools</b></summary>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,gitlab,bash&perline=8&theme=dark"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="55" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="55" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="55" title="Postman"/>
+<img src="https://skillicons.dev/icons?i=jira&theme=dark" width="55" title="Jira"/>
+<img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="55" title="GitLab"/>
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" width="55" title="Bash"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
+
 </div>
 </details>
 
@@ -235,7 +304,7 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-<br/>
+<br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=34D399&center=true&vCenter=true&width=540&lines=%F0%9F%93%8A+Fetching+GitHub+Stats...;%F0%9F%92%AA+Contributions+incoming...;%E2%AD%90+Collecting+stars+and+streaks..." alt="Stats loading"/>
 </div>
 
@@ -282,26 +351,26 @@
 <td width="50%">
 
 ### 📋 Task Manager Web App
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="28"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="30"/>
 
 - Full-stack CRUD for 100+ tasks per user
 - JWT-secured authentication
 - Unit-tested API endpoints — deployed on Vercel
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/Arpi-tect)
 
 </td>
 <td width="50%">
 
 ### 📸 Stories Web App — 24hr Feature
-<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" height="28"/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" height="30"/>
 
 - Upload & view temporary image stories
 - 24-hour auto-deletion via timestamps + LocalStorage
 - Smooth transitions · fully responsive UI
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
 
 </td>
 </tr>
@@ -309,19 +378,18 @@
 <td width="50%">
 
 ### ☁️ Cloud Deployment & Automation
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" height="28"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&theme=dark" height="30"/>
 
 - 3 containerised microservices on AWS (EC2, S3, IAM)
 - Automated environment setup — cut config time ~50%
 - Docker for consistent dev/prod environments
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect)
 
 </td>
 <td width="50%">
 
 ### 🔧 More coming soon...
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60"/>
 
 > Always building something new 🚀
 
@@ -360,13 +428,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   FOOTER — blue wave close + connect section                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 <br/>
 
@@ -389,6 +453,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,30:3b82f6,60:2563b0,85:1a3a7c,100:0d1b3e&height=120&section=footer&animation=fadeIn" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,40:3b82f6,70:1e40af,100:0d1b3e&height=120&section=footer&animation=fadeIn)
 
 </div>
