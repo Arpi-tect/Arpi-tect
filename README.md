@@ -1,24 +1,225 @@
-# 💫 About Me:
-⚡ Full Stack Developer from India 🇮🇳 building scalable applications with React, Java, Python, AWS, and modern cloud technologies.<br>🚀 Currently pursuing B.Tech in Computer Science Engineering with specialization in Cloud Computing & Automation, passionate about building scalable applications, backend systems, and cloud-powered solutions that solve real-world problems.<br><br>I enjoy transforming ideas into functional software — from designing REST APIs and developing full-stack web applications to deploying containerized services on AWS and automating workflows using modern DevOps practices.<br><br>What I Do:<br><br>• Build full-stack web applications using React.js, Node.js, Express.js, and MongoDB<br>• Develop backend services and REST APIs with Java and Python<br>• Deploy cloud-native applications using AWS, Docker, and Linux<br>• Work with scalable architectures, CI/CD pipelines, and automation workflows<br>• Create responsive and user-friendly interfaces with modern frontend technologies<br>• Collaborate in Agile environments using Git-based workflows and clean coding practices<br><br>Current Focus:<br><br>• Advanced Backend Engineering & REST APIs<br>• AWS Cloud Architecture & Deployment<br>• Docker, CI/CD & Automation Workflows<br>• Scalable Full-Stack Application Development<br>• Secure and Maintainable Software Systems<br>• System Design & Performance Optimization<br><br>Approach:<br><br>• Writing clean, maintainable, and production-ready code<br>• Building scalable solutions with long-term reliability in mind<br>• Following security-first and performance-oriented development practices<br>• Continuous learning through projects, internships, and real-world problem solving<br>• Combining technical precision with user-focused design principles<br><br>Technical Stack:<br><br>• Languages: Java, Python, JavaScript, C++<br>• Frontend: React.js, HTML5, CSS3, Tailwind CSS<br>• Backend: Node.js, Express.js, REST APIs<br>• Cloud & DevOps: AWS (EC2, S3, IAM), Docker, Linux, GitHub Actions, CI/CD<br>• Databases: MongoDB, SQL<br>• Tools: Git, GitHub, Postman, VS Code<br><br>Achievements & Involvement:<br><br>• AWS Certified Cloud Practitioner<br>• Oracle Certified Foundations Associate — Java<br>• Active member of IEEE, NSS, UX Club, and iCreate at VIT Bhopal<br>• Experience working in Agile teams with real-world deployment workflows and collaborative development environments<br><br>Fun Fact:<br>☁️ I genuinely enjoy deploying applications almost as much as building them — turning code into live, scalable systems is the most exciting part for me.<br><br>Always learning. Always building. 🚀<br>
+<div align="center">
 
+<!-- BLUE WAVE BANNER - exactly like the reference image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100=53d8fb&height=220&section=header&text=Arpita&fontSize=75&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Java%20%26%20Python%20Dev&descSize=19&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpitec23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpiiiee01@gmail.com) 
+<!-- sudo apt install line - exactly like reference -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=~%2F+sudo+apt+install+awesome-developer" alt="sudo" />
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=plastic&logo=snowflake&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=plastic&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=plastic) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=plastic&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=plastic&logo=mocha&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Arpi-tect&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Arpi-tect&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arpi-tect&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arpi-tect&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Stats badges row - like the reference image -->
+![Profile Views](https://komarev.com/ghpvc/?username=Arpi-tect&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Arpi-tect?label=FOLLOWERS&style=flat-square&color=58A6FF)](https://github.com/Arpi-tect)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Arpi-tect?label=STARS&style=flat-square&color=yellow)](https://github.com/Arpi-tect)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arpi-tect&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitec23)
+[![Email](https://img.shields.io/badge/Gmail-arpiiiee01@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arpiiiee01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Arpi--tect-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arpi-tect)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arpi-tect&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔗 About Me
+
+<div align="center">
+
+<!-- Animated tech icons row - like the reference image -->
+![React](https://skillicons.dev/icons?i=react,java,python,aws,docker,nodejs,mongodb,linux&perline=8)
+
+</div>
+
+<br/>
+
+<img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+**Full Stack Developer** from **India** 🇮🇳 specialising in **Cloud Computing**, **Backend Engineering** and **AWS Deployments**.
+
+Currently pursuing **B.Tech in Computer Science Engineering** (Cloud Computing & Automation) at VIT Bhopal with a CGPA of **8.5/10**. I focus on building scalable, efficient solutions — from designing REST APIs and developing full-stack applications to deploying containerised services on AWS and automating DevOps workflows.
+
+**What I do:**
+- 🌐 Build full-stack web apps with React.js, Node.js, Express & MongoDB
+- ⚙️ Develop backend services & REST APIs with Java and Python
+- ☁️ Deploy cloud-native apps using AWS (EC2, S3, IAM), Docker & Linux
+- 🔄 Build CI/CD pipelines and automation workflows
+- 🤝 Collaborate in Agile teams with Git-based workflows
+
+**Currently:**
+- 💼 Java Developer at **Pinnacle Labs**
+- 🌱 Learning **Spring Boot · System Design · Advanced AWS**
+- ⚡ Fun fact: *I enjoy deploying apps almost as much as building them!*
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Technical Skills
+
+<details open>
+<summary><b>⚡ Programming Languages</b></summary>
+<br>
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & APIs</b></summary>
+<br>
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔧 Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+</details>
+
+---
+
+## 💼 Experience
+
+**Java Developer** — *Pinnacle Labs* &nbsp; `May 2026 – Present`
+> Developing Java-based backend modules and REST APIs in an Agile team · JUnit test cases · Pull request reviews · Git-based technical documentation
+
+**Software Developer Engineer Intern** — *Bluestock™* &nbsp; `Jan 2026 – Feb 2026`
+> 5+ RESTful APIs with Python & Java · AWS deployment (EC2, S3, IAM) · Reduced deployment steps by ~40% via CI/CD scripting · Full-stack work with React.js & Node.js
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📋 Task Manager Web App
+**Stack:** React.js · Node.js · Express.js · MongoDB
+
+- Full-stack CRUD app for 100+ tasks/user
+- JWT-secured authentication
+- Deployed on Vercel
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Arpi-tect)
+
+</td>
+<td width="50%">
+
+### 📸 Stories Web App
+**Stack:** React · JavaScript · HTML5 · CSS3
+
+- 24-hour auto-deleting image stories
+- Smooth transitions & responsive UI
+- Timestamps + LocalStorage
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Arpi-tect)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Deployment & Automation
+**Stack:** AWS · Linux · Docker · Git
+
+- 3 containerised microservices on AWS
+- Cut config time by ~50% via automation
+- Docker for consistent dev environments
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Arpi-tect)
+
+</td>
+<td width="50%">
+
+### 🔧 More coming soon...
+> Always building something new 🚀
+
+[![All Projects](https://img.shields.io/badge/See_All_Projects-58A6FF?style=for-the-badge&logo=github)](https://github.com/Arpi-tect?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arpi-tect&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpi-tect&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Arpi-tect&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Arpi-tect&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:53d8fb,50:0f3460,100:1a1a2e&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+*"Turning ideas into scalable software — one commit at a time."* ✨
+
+**Always Learning · Always Building 🚀**
+
+</div>
