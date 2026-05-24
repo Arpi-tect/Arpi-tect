@@ -1,23 +1,22 @@
 <div align="center">
 
 <!-- ╔══════════════════════════════════════════════════╗ -->
-<!--              BLUE WAVE BANNER — Image 1 style      -->
+<!--         DARK NEON BANNER — Deep dark with electric  -->
 <!-- ╚══════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:0a1628,45:0d2f5e,70:1155a6,100:58A6FF&height=240&section=header&text=ARPITA&fontSize=85&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Backend%20%26%20AWS%20Specialist&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f1a,20:0a0e1f,45:0d1b3e,70:0f3460,100:16213e&height=260&section=header&text=ARPITA&fontSize=90&fontColor=00d4ff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AWS%20%26%20Backend%20Specialist&descSize=19&descAlignY=60&descAlign=50&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
-<!-- sudo apt install line -->
+<!-- Animated typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=%7E%2F+sudo+apt+install+awesome-developer;%F0%9F%9A%80+Building+Scalable+Cloud+Systems;%E2%9A%A1+Full+Stack+%7C+AWS+%7C+DevOps+%7C+Backend;%F0%9F%94%A5+Turning+Code+into+Live+Products" alt="Typing SVG"/>
+
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2500&color=58A6FF&center=true&vCenter=true&width=540&lines=%7E%2F+sudo+apt+install+awesome-developer" alt="sudo"/>
 
-<br/>
-
-<!-- PROFILE VIEWS · FOLLOWERS · STARS — dark pill style like Image 1 -->
-<img src="https://komarev.com/ghpvc/?username=Arpi-tect&style=flat-square&color=0d1117&labelColor=58A6FF&label=PROFILE+VIEWS" />
+<!-- STATS BADGES — neon dark pill style -->
+<img src="https://komarev.com/ghpvc/?username=Arpi-tect&style=flat-square&color=0d0f1a&labelColor=00d4ff&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Arpi-tect?label=FOLLOWERS&style=flat-square&color=0d1117&labelColor=58A6FF" />
+<img src="https://img.shields.io/github/followers/Arpi-tect?label=FOLLOWERS&style=flat-square&color=0d0f1a&labelColor=00d4ff" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/Arpi-tect?label=STARS&style=flat-square&color=0d1117&labelColor=FFD700" />
+<img src="https://img.shields.io/github/stars/Arpi-tect?label=STARS&style=flat-square&color=0d0f1a&labelColor=ff6b35" />
 
 <br/><br/>
 
@@ -29,18 +28,35 @@
 
 ---
 
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--         ANIMATED DEVELOPER GIF — BETWEEN SECTIONS  -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+
+<br/>
+
+<!-- Neon typing line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1800&color=9D00FF&center=true&vCenter=true&width=500&lines=%F0%9F%92%A1+Writing+code+that+ships+to+production;%F0%9F%8C%90+Cloud-native+%7C+Containerised+%7C+Automated;%F0%9F%94%92+Secure+APIs+%7C+Scalable+Architecture" alt="Typing2"/>
+
+</div>
+
+---
+
 ## 🔗 About Me
 
 <div align="center">
 
-<!-- Animated skill icons — hover-animated via skillicons.dev -->
+<!-- Animated skill icons -->
 <img src="https://skillicons.dev/icons?i=react,java,python,aws,docker,nodejs,mongodb,linux&perline=8" alt="tech icons" />
 
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding GIF" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 ⚡ **Full Stack Developer** from **India** 🇮🇳 building scalable applications with **React, Java, Python, AWS** and modern cloud technologies.
 
@@ -65,13 +81,16 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════╗ -->
-<!--         PIXEL ART / DEVELOPER GIF SECTION          -->
-<!--         Inspired by Image 2 — the dark banner      -->
+<!--        DARK DEV GIF BANNER — "In the zone" style   -->
 <!-- ╚══════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2200&color=FF6B35&center=true&vCenter=true&width=560&lines=%F0%9F%94%A5+Technical+Skills+Loading...;%E2%9A%99%EF%B8%8F+Compiling+awesome+tech+stack...;%F0%9F%A7%A0+Initialising+developer+mode..." alt="Loading"/>
 
 </div>
 
@@ -165,7 +184,7 @@
 
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>TensorFlow | <img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>PyTorch | <img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br/>Sklearn | <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="48"/><br/>Plotly | <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48"/><br/>Power BI |
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>TensorFlow | <img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>PyTorch | <img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br/>Scikit-Learn | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48"/><br/>Pandas | <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48"/><br/>NumPy |
 
 </div>
 </details>
@@ -198,9 +217,18 @@
 
 ---
 
-<!-- SECOND GIF — animated dev section between skills and stats -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--   ANIMATED CODER GIF — dark pixel art / neon vibe  -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
 <div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=2000&color=00FF9D&center=true&vCenter=true&width=540&lines=%F0%9F%93%8A+Fetching+GitHub+Stats...;%F0%9F%92%AA+Contributions+incoming...;%E2%AD%90+Collecting+stars+and+streaks..." alt="Stats loading"/>
+
 </div>
 
 ---
@@ -280,7 +308,7 @@
 
 > Always building something new 🚀
 
-[![All Repos](https://img.shields.io/badge/See_All_Repos-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect?tab=repositories)
+[![All Repos](https://img.shields.io/badge/See_All_Repos-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpi-tect?tab=repositories)
 
 </td>
 </tr>
@@ -292,12 +320,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arpi-tect&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpi-tect&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arpi-tect&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0f1a&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpi-tect&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d0f1a&title_color=00d4ff&text_color=c9d1d9&border_radius=10" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Arpi-tect&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10"/>
+<img src="https://streak-stats.demolab.com/?user=Arpi-tect&theme=tokyonight&hide_border=true&background=0d0f1a&ring=00d4ff&fire=FF6B35&currStreakLabel=00d4ff&border_radius=10"/>
 
 <br/>
 
@@ -315,16 +343,25 @@
 
 ---
 
-<!-- FOOTER WAVE -->
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--     FOOTER GIF + WAVE — electric neon dark close   -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,30:1155a6,60:0d2f5e,80:0a1628,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,25:0f3460,55:0d1b3e,80:0a0e1f,100:0d0f1a&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*"Turning ideas into scalable software — one commit at a time."* ✨
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=3000&color=9D00FF&center=true&vCenter=true&width=540&lines=%22Turning+ideas+into+scalable+software+%E2%80%94+one+commit+at+a+time.%22+%E2%9C%A8" alt="Quote"/>
+
+<br/>
 
 **Always Learning · Always Building 🚀**
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitec23)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpiiiee01@gmail.com)
